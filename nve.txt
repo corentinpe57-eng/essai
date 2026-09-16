@@ -1,1 +1,0 @@
-Alors bonjour aujourd'hui je vais vous présenter un cours de git parce que c'est trop génial et tout le monde adore. On va d'abord parler du commencement. Il faut installer GitHub, puis créer un reprositorie (facile nannnn ?) 
